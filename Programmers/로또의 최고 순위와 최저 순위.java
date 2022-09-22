@@ -1,3 +1,4 @@
+
 class Solution {
     public int[] solution(int[] lottos, int[] win_nums) {
         int zero = 0;
@@ -28,3 +29,4 @@ class Solution {
         return answer;
     }
 }
+

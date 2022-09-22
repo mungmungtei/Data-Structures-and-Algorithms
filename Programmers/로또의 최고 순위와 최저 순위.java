@@ -1,4 +1,4 @@
-<https://school.programmers.co.kr/learn/courses/30/lessons/77484>
+[문제](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
 
 class Solution {
     public int[] solution(int[] lottos, int[] win_nums) {
